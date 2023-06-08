@@ -6,8 +6,8 @@ Hello! My name is William, thanks for coming and checking out my Github profile.
 1. C99
 2. C#
 3. Java
-4. C++
-5. X86-64 Assembly
+4. X86-64 Assembly
+5. C++
 
 ### 🌱 I’m currently learning ...
 * Javascript/Typescript
