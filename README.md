@@ -19,6 +19,8 @@ Hello! My name is William, thanks for coming and checking out my Github profile.
 
 ### 🔭 I’m currently working on ...
 I'm going to be starting the development of a lightweight web app with my sister and some friends.
+
+I want to build a web app using Spotify's API. Some time of self updating cloud graphic :)
 <!--
 **Accipitral/Accipitral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
